@@ -1,0 +1,10 @@
+" turn off spell checking
+:set nospell
+
+" hide menubar
+set guioptions-=m
+
+" set ctrlp defaul mode to mru
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlPMRU'
+
