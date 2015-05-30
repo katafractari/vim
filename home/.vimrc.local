@@ -1,3 +1,6 @@
+" Color scheme
+colorscheme peaksea
+
 " turn off spell checking
 :set nospell
 
