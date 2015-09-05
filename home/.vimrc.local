@@ -6,6 +6,8 @@ colorscheme peaksea
 
 " hide menubar
 set guioptions-=m
+set guioptions-=r  "remove right-hand scroll bar
+set guioptions-=L  "remove left-hand scroll bar
 
 " set ctrlp defaul mode to mru
 let g:ctrlp_map = '<c-p>'
