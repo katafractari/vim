@@ -13,3 +13,5 @@ set guioptions-=L  "remove left-hand scroll bar
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlPMRU'
 
+" make powerline work
+let $PYTHONPATH='/usr/lib/python3.4/site-packages'
