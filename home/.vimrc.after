@@ -1,17 +1,15 @@
 " Color scheme
-colorscheme peaksea
+"colorscheme peaksea
 
 " turn off spell checking
 :set nospell
 
 " hide menubar
 set guioptions-=m
+set guioptions-=T
 set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=L  "remove left-hand scroll bar
 
 " set ctrlp defaul mode to mru
 let g:ctrlp_map = '<c-p>'
 let g:ctrlp_cmd = 'CtrlPMRU'
-
-" make powerline work
-let $PYTHONPATH='/usr/lib/python3.5/site-packages'
