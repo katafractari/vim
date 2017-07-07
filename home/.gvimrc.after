@@ -1,2 +1,3 @@
-color molokai
+color solarized
+set background=dark
 set guifont=Inconsolata\ 11
